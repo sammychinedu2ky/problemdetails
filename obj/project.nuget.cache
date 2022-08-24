@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8v+jBxsmGEKdznypJnbhCyWURXuVQg79EVH9fGraW93tzTWDhAUVXurmBLtiQY5NMEQK9ykWyfWmsLTMaFK5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Swacblooms\\Desktop\\managedidentity\\managedidentity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\azure.identity\\1.6.1\\azure.identity.1.6.1.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\azure.security.keyvault.secrets\\4.3.0\\azure.security.keyvault.secrets.4.3.0.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0-preview.6.22330.3\\microsoft.aspnetcore.openapi.7.0.0-preview.6.22330.3.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\microsoft.identity.client\\4.39.0\\microsoft.identity.client.4.39.0.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.19.3\\microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Swacblooms\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

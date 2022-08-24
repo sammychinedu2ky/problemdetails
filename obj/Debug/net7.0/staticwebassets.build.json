@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EW5oLoXxf5Pks1qemuNdQPMiq4PF5WDBMOJaKS45xuU=",
+  "Source": "managedidentity",
+  "BasePath": "_content/managedidentity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

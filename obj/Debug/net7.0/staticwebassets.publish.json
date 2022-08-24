@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R4V8bt0RJE7mcP1ApXYB6k9VMczdUKLepa0X5Urkoyk=",
+  "Source": "managedidentity",
+  "BasePath": "_content/managedidentity",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
